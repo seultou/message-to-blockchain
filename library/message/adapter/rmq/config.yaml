@@ -1,0 +1,6 @@
+hostname: 'rmq.local'
+username: 'guest'
+password: 'guest'
+queue_name: 'message-to-blockchain'
+queue_name_return_status: 'message-to-blockchain-return-status'
+routing_key: 'message-to-blockchain'
